@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity经典用例/contract/ITest.sol": "ReentrancyGuardTransient"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity经典用例/contract/ITest.sol": {
+			"keccak256": "0xbea8f9b1d00e87d49af96a030a584935c8185c681245541a97375fc2fe4f1a31",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6dc587d294a045c213dbd636a9b57c0f020d56420d9da8c2684e31b1481a197c",
+				"dweb:/ipfs/QmNsbUdES624KrqxTW7YqdSXNbA833HrJbJxD1PyDsuGhe"
+			]
+		}
+	},
+	"version": 1
+}
